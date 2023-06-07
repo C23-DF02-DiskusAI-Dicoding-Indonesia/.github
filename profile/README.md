@@ -46,7 +46,9 @@ DiskusAI is a platform that combines Discussion Forums, Search Bar Optimization,
 
 ## Repository
 #### Machine Learning
-
+[Chatbot-Modelling](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/Chatbot-Modelling), Chatbot Modelling is
+     
 #### Cloud Computing
-
+[API-Serving](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/API-Serving), API-Serving is 
+     
 </details>
