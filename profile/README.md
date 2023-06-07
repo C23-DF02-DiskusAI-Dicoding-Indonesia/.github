@@ -14,7 +14,7 @@ Hello everyone! We are a team consisting of six individuals from various locatio
 DiskusAI is a platform that combines Discussion Forums, Search Bar Optimization, and Chatbot AI functionalities. DiskusAI aims to provide a better user experience by delivering relevant and helpful answers in discussions, assisting users in finding information effectively, and suggesting appropriate discussion topics. DiskusAI also enhance the search bar feature by providing input suggestions to users. 
 
 <p align="center">
-    <img width="701" alt="Screenshot 2023-06-07 at 22 39 45" src="https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/.github/assets/132810595/e09c5a83-1414-4e72-8f88-751d9216ea55">
+    <img width="712" alt="Screenshot 2023-06-07 at 22 42 22" src="https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/.github/assets/132810595/04206a48-6fff-443c-8e67-0d4a3ea29cc6">
 </p>
      
 ## Our Teams     
