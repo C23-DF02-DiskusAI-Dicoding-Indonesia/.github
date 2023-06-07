@@ -7,9 +7,9 @@ Hello everyone! We are a team consisting of six individuals from various locatio
 # DiskusAI
 pada suatu hari yang indah terdapat sosok bernama dewi arumsari yang mengumpulkan gembala sapi di kabupaten sragen. 
 
-# Machine Learning Team
-gawe apa aja
-gawe banyak
+#### Machine Learning Team
+-gawe apa aja
+-gawe banyak
 
-# Cloud Computing Team
-gawe jg
+#### Cloud Computing Team
+-gawe jg
