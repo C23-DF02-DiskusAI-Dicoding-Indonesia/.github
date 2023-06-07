@@ -25,7 +25,7 @@ DiskusAI is a platform that combines Discussion Forums, Search Bar Optimization,
 | ID          | Name                 | Social Media |
 | ------------| -------------------- | ------------ |
 | C360DSX2396 | Antonio Passaka A. W | Content Cell |
-| C360DSY1917 | Shafaa Budi Aulia    | Content Cell |
+| C360DSY1917 | Shafaa Budi Aulia    | [Documentation](https://www.linkedin.com/in/shafaabudiaulia/) |
 
 ## Repository
 #### Machine Learning
