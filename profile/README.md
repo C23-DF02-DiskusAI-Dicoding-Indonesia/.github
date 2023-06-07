@@ -32,6 +32,17 @@ DiskusAI is a platform that combines Discussion Forums, Search Bar Optimization,
 | ------------| -------------------- | ------------ |
 | C360DSX2396 | Antonio Passaka A. W | [Linkedin](https://www.linkedin.com/in/antoniopassaka/) |
 | C360DSY1917 | Shafaa Budi Aulia    | [Linkedin](https://www.linkedin.com/in/shafaabudiaulia/)|
+     
+## Tools and Resources
+#### Machine Learning Team
+- Code Platform : 
+- Programming Language : 
+- Library :
+     
+### Cloud Computing Team
+- Cloud Environment : Google Cloud Platform (GCP), Cloud Run, Cloud SQL
+- Programming Language : 
+- Web Server : Flask API
 
 ## Repository
 #### Machine Learning
