@@ -1,5 +1,5 @@
 <p align="center">
-    C23-DF02 - Dicoding Indonesia - DiskusAI
+     # C23-DF02 - Dicoding Indonesia - DiskusAI
 </p>
 
 <p align="center">
