@@ -6,6 +6,10 @@
 
 Hello everyone! We are a team consisting of six individuals from various locations in Indonesia participating in a program called Bangkit, organized by Google, Traveloka, GoTo, and Dicoding. We are collaborating with Dicoding Indonesia to develop a prototype focused on optimizing Chatbot and Search Bar functionalities. 
 
+<details>
+<summary>More Information</summary>
+<br>
+
 ## DiskusAI
 pada suatu hari yang indah terdapat sosok bernama dewi arumsari yang mengumpulkan gembala sapi di kabupaten sragen. 
 
@@ -20,3 +24,5 @@ pada suatu hari yang indah terdapat sosok bernama dewi arumsari yang mengumpulka
 #### Machine Learning
 
 #### Cloud Computing
+
+</details>
