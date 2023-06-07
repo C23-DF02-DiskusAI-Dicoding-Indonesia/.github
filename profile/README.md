@@ -1,4 +1,6 @@
+<p align="center">
 ## C23-DF02 - Dicoding Indonesia - DiskusAI
+</p>
 
 <p align="center">
     <img width="484" alt="Screenshot 2023-06-07 at 21 56 42" src="https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/.github/assets/132810595/f6edca83-e298-48e9-b313-32b86b5291f5">
