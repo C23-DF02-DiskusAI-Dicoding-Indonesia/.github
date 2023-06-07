@@ -16,16 +16,16 @@ DiskusAI is a platform that combines Discussion Forums, Search Bar Optimization,
 #### Machine Learning Team
 | ID          | Name                 | Social Media |
 | ------------| -------------------- | ------------ |
-| M185DSX2110 | Ahmad Azzam Alhanafi | Content Cell |
-| M181DSY1842 | Safira Raissa Rahmi  | Content Cell |
-| M181DSY2915 | Marcella Sintauly    | Content Cell |
-| M209DKY3796 | Dewi Arumsari        | Content Cell |
+| M185DSX2110 | Ahmad Azzam Alhanafi | [Linkedin](https://www.linkedin.com/in/azzamhanafi/) |
+| M181DSY1842 | Safira Raissa Rahmi  | [Linkedin](https://www.linkedin.com/in/safira-raissa-rahmi-a81668212/)|
+| M181DSY2915 | Marcella Sintauly    | [Linkedin](https://www.linkedin.com/in/marcella-sintauly-67a473216/) |
+| M209DKY3796 | Dewi Arumsari        | [Linkedin](https://www.linkedin.com/in/dewi-arumsari/) |
 
 #### Cloud Computing Team
 | ID          | Name                 | Social Media |
 | ------------| -------------------- | ------------ |
-| C360DSX2396 | Antonio Passaka A. W | Content Cell |
-| C360DSY1917 | Shafaa Budi Aulia    | [Documentation](https://www.linkedin.com/in/shafaabudiaulia/) |
+| C360DSX2396 | Antonio Passaka A. W | [Linkedin](https://www.linkedin.com/in/antoniopassaka/) |
+| C360DSY1917 | Shafaa Budi Aulia    | [Linkedin](https://www.linkedin.com/in/shafaabudiaulia/)|
 
 ## Repository
 #### Machine Learning
