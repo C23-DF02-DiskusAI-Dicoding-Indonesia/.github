@@ -45,10 +45,15 @@ DiskusAI is a platform that combines Discussion Forums, Search Bar Optimization,
 - Web Server : Flask API
 
 ## Repository
-#### Machine Learning
+#### Machine Learning 
 [Chatbot-Modelling](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/Chatbot-Modelling), Chatbot Modelling is
+[SearchBar-Modeling](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/SearchBar-Modeling), .....
+[Chatbot-Response-Endpoint](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/Chatbot-Response-Endpoint),......
+[SearchBar-Suggestion-Endpoint](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/SearchBar-Suggestion-Endpoint),......
+[ML-Exploration](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/ML-Exploration),......
      
-#### Cloud Computing
+#### Cloud Computing https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/CC-Exploration
 [API-Serving](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/API-Serving), API-Serving is 
+[CC-Exploration](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/CC-Exploration),.....
      
 </details>
