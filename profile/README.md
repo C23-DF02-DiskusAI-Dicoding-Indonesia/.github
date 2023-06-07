@@ -11,7 +11,7 @@ Hello everyone! We are a team consisting of six individuals from various locatio
 <br>
 
 ## DiskusAI
-pada suatu hari yang indah terdapat sosok bernama dewi arumsari yang mengumpulkan gembala sapi di kabupaten sragen. 
+DiskusAI is a platform that combines Discussion Forums, Search Bar Optimization, and Chatbot AI functionalities. DiskusAI aims to provide a better user experience by delivering relevant and helpful answers in discussions, assisting users in finding information effectively, and suggesting appropriate discussion topics. DiskusAI also enhance the search bar feature by providing input suggestions to users. 
 
 #### Machine Learning Team
 - gawe apa aja
