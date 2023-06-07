@@ -22,7 +22,10 @@ DiskusAI is a platform that combines Discussion Forums, Search Bar Optimization,
 | M209DKY3796 | Dewi Arumsari        | Content Cell |
 
 #### Cloud Computing Team
-- gawe jg
+| ID          | Name                 | Social Media |
+| ------------| -------------------- | ------------ |
+| C360DSX2396 | Antonio Passaka A. W | Content Cell |
+| C360DSY1917 | Shafaa Budi Aulia    | Content Cell |
 
 ## Repository
 #### Machine Learning
