@@ -39,7 +39,7 @@ DiskusAI is a platform that combines Discussion Forums, Search Bar Optimization,
 - Programming Language : 
 - Library :
      
-### Cloud Computing Team
+#### Cloud Computing Team
 - Cloud Environment : Google Cloud Platform (GCP), Cloud Run, Cloud SQL
 - Programming Language : 
 - Web Server : Flask API
@@ -52,7 +52,7 @@ DiskusAI is a platform that combines Discussion Forums, Search Bar Optimization,
 - [SearchBar-Suggestion-Endpoint](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/SearchBar-Suggestion-Endpoint),......
 - [ML-Exploration](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/ML-Exploration),......
      
-#### Cloud Computing https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/CC-Exploration
+#### Cloud Computing 
 - [API-Serving](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/API-Serving), API-Serving is 
 - [CC-Exploration](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/CC-Exploration),.....
      
