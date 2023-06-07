@@ -4,12 +4,12 @@
 
 Hello everyone! We are a team consisting of six individuals from various locations in Indonesia participating in a program called Bangkit, organized by Google, Traveloka, GoTo, and Dicoding. We are collaborating with Dicoding Indonesia to develop a prototype focused on optimizing Chatbot and Search Bar functionalities. 
 
-# DiskusAI
+## DiskusAI
 pada suatu hari yang indah terdapat sosok bernama dewi arumsari yang mengumpulkan gembala sapi di kabupaten sragen. 
 
 #### Machine Learning Team
--gawe apa aja
--gawe banyak
+- gawe apa aja
+- gawe banyak
 
 #### Cloud Computing Team
--gawe jg
+- gawe jg
