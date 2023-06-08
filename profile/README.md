@@ -20,14 +20,13 @@ DiskusAI is a platform that combines Discussion Forums, Search Bar Optimization,
 ## Our Teams     
 
 #### Machine Learning Team
-<p align="center">     
-     | ID          | Name                 | University   | Social Media |
-     | ------------| -------------------- | ------------ | ------------ |
-     | M185DSX2110 | Ahmad Azzam Alhanafi | Universitas Islam Indonesia             | [Linkedin](https://www.linkedin.com/in/azzamhanafi/) |
-     | M181DSY1842 | Safira Raissa Rahmi  | Universitas Indonesia             | [Linkedin](https://www.linkedin.com/in/safira-raissa-rahmi-a81668212/)|
-     | M181DSY2915 | Marcella Sintauly    | Universitas Indonesia             | [Linkedin](https://www.linkedin.com/in/marcella-sintauly-67a473216/) |
-     | M209DKY3796 | Dewi Arumsari        | Universitas Jenderal Achmad Yani Yogyakarta            | [Linkedin](https://www.linkedin.com/in/dewi-arumsari/) |
-</p>
+| ID          | Name                 | University   | Social Media |
+| ------------| -------------------- | ------------ | ------------ |
+| M185DSX2110 | Ahmad Azzam Alhanafi | Universitas Islam Indonesia             | [Linkedin](https://www.linkedin.com/in/azzamhanafi/) |
+| M181DSY1842 | Safira Raissa Rahmi  | Universitas Indonesia             | [Linkedin](https://www.linkedin.com/in/safira-raissa-rahmi-a81668212/)|
+| M181DSY2915 | Marcella Sintauly    | Universitas Indonesia             | [Linkedin](https://www.linkedin.com/in/marcella-sintauly-67a473216/) |
+| M209DKY3796 | Dewi Arumsari        | Universitas Jenderal Achmad Yani Yogyakarta            | [Linkedin](https://www.linkedin.com/in/dewi-arumsari/) |
+  
 #### Cloud Computing Team
 | ID          | Name                       | University             | Social Media |
 | ------------| --------------------       | ------------ | ---------------------- |
