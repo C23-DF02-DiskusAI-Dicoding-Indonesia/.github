@@ -28,10 +28,10 @@ DiskusAI is a platform that combines Discussion Forums, Search Bar Optimization,
 | M209DKY3796 | Dewi Arumsari        | Universitas Jenderal Achmad Yani Yogyakarta            | [Linkedin](https://www.linkedin.com/in/dewi-arumsari/) |
 
 #### Cloud Computing Team
-| ID          | Name                       | Social Media |
-| ------------| --------------------       | ------------ |
-| C360DSX2396 | Antonio Passaka Adi Wijaya | [Linkedin](https://www.linkedin.com/in/antoniopassaka/) |
-| C360DSY1917 | Shafaa Budi Aulia          | [Linkedin](https://www.linkedin.com/in/shafaabudiaulia/)|
+| ID          | Name                       | University             | Social Media |
+| ------------| --------------------       | ------------ | ---------------------- |
+| C360DSX2396 | Antonio Passaka Adi Wijaya | Telkom University             | [Linkedin](https://www.linkedin.com/in/antoniopassaka/) |
+| C360DSY1917 | Shafaa Budi Aulia          | Telkom University             | [Linkedin](https://www.linkedin.com/in/shafaabudiaulia/)|
      
 ## Tools and Resources
 #### Machine Learning Team
