@@ -35,13 +35,13 @@ DiskusAI is a platform that combines Discussion Forums, Search Bar Optimization,
      
 ## Tools and Resources
 #### Machine Learning Team
-- Code Platform : 
-- Programming Language : 
-- Library :
+- Code Platform : Google Colab and Visual Studio Code
+- Programming Language : Python, HTML, and Javascript
+- Library : Tensorflow, TF-Hub, pandas, NLTK, and Flask
      
 #### Cloud Computing Team
 - Cloud Environment : Google Cloud Platform (GCP), Cloud Run, Cloud SQL
-- Programming Language : Javascript, HtTML, CSS
+- Programming Language : Javascript, HTML, CSS
 - Web Server : Flask API, Node.Js
 
 ## Repository
