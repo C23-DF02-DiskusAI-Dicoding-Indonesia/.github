@@ -46,14 +46,14 @@ DiskusAI is a platform that combines Discussion Forums, Search Bar Optimization,
 
 ## Repository
 #### Machine Learning 
-- [Chatbot-Modelling](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/Chatbot-Modelling), Chatbot Modelling is
-- [SearchBar-Modeling](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/SearchBar-Modeling), .....
-- [Chatbot-Response-Endpoint](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/Chatbot-Response-Endpoint),......
-- [SearchBar-Suggestion-Endpoint](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/SearchBar-Suggestion-Endpoint),......
-- [ML-Exploration](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/ML-Exploration),......
+- [Chatbot-Modelling](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/Chatbot-Modelling), Notebooks of our research and modelling for response on Chatbot
+- [SearchBar-Modeling](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/SearchBar-Modeling), Notebooks of our research and modelling for suggestion on Searchbar
+- [Chatbot-Response-Endpoint](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/Chatbot-Response-Endpoint), An endpoint for our system to improve Chatbot
+- [SearchBar-Suggestion-Endpoint](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/SearchBar-Suggestion-Endpoint), An endpoint for our system to improve SearchBar
+- [ML-Exploration](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/ML-Exploration), a sandbox for trials and errors activities
      
 #### Cloud Computing 
-- [API-Serving](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/API-Serving), API-Serving is 
-- [CC-Exploration](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/CC-Exploration),.....
+- [API-Serving](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/API-Serving), API-Service Deployment for Chatbot and SearchBar
+- [CC-Exploration](https://github.com/C23-DF02-DiskusAI-Dicoding-Indonesia/CC-Exploration), a sandbox for trials and errors activities
      
 </details>
